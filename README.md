@@ -1,18 +1,17 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Task Reminder
 
-> One paragraph statement about the project.
+> A To-Do task manager
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript/HTML/CSS
+- React
+- VSCode
+- Git/GitHub
 
 ## Live Demo
 
@@ -43,17 +42,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Kambuchi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Kambuchi](https://github.com/kambuchi)
+- Twitter: [@xKambu](https://twitter.com/xKambu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kambu-pereira/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -65,11 +59,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
