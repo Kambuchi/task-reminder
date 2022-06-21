@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/task-reminder/static/css/main.79aba35d.css",
+    "main.js": "/task-reminder/static/js/main.5e43e5b3.js",
+    "index.html": "/task-reminder/index.html",
+    "main.79aba35d.css.map": "/task-reminder/static/css/main.79aba35d.css.map",
+    "main.5e43e5b3.js.map": "/task-reminder/static/js/main.5e43e5b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79aba35d.css",
+    "static/js/main.5e43e5b3.js"
+  ]
+}
