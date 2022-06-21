@@ -3,7 +3,7 @@
 
 > A To-Do task manager
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
 
 ## Built With
